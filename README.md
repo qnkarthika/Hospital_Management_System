@@ -10,4 +10,4 @@ Download the project's zip file. Extract the contents of the zip file. Move the 
 
 Usage:
 
-Open your web browser. Access the hospital Management System by visiting http://localhost/index.html.If you want to store patient information,click registration.Enter the necessary details,then click register,your registration is successful.If you are an admin you can see the patient details by using admin_name and password.Admin can also search patients using their phone numbers for fast access.
+Open your web browser. Access the hospital Management System by visiting http://localhost/index.html. If you want to store patient information,click registration.Enter the necessary details,then click register,your registration is successful.If you are an admin you can see the patient details by using admin_name and password.Admin can also search patients using their phone numbers for fast access.
